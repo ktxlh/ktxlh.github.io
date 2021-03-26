@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, double major in Data Science and Technology, The Hong Kong University of Science and Technology, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Summer Intern
+  * Academia Sinica
+  * With the Natural Language Understanding Laboratory, I did a research project titled “Math Word Problem Generation,” attended NLP lectures and seminars, and gave a paper presentation.
+  * Duties included: 
+    * Conduct independent research under the supervision of a research fellow and senior research group members
+    * Report research progress in weekly meetings
+    * Complete coursework in Natural Language Processing and CS224n Natural Language Processing with Deep Learning
+    * Give a presentation based on a selected research paper
+  * Supervisor: Professor Keh-Yih Su
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Student Intern
+  * PCCW Limited
+  * I found and solved the root cause of the failure of a video conference software and programmed the backend of another database management web application in C# under .Net Framework.
+  * Supervisor: Jerry K. F. Wong
   
 Skills
 ======
