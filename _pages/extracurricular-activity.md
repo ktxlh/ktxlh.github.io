@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Extracurricular Activity"
-permalink: /extracurrcular-activity/
+permalink: /extracurricular-activity/
 author_profile: true
 redirect_from:
 ---
