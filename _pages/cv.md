@@ -21,7 +21,7 @@ The following was updated on March 29, 2021.
 * [Coursework](#Coursework)
 * [Extracurricular Activity](#Extracurricular-Activity)
 
-## <a name="Education">Education</a>
+## Education
 * **Hong Kong University of Science and Technology** (HKUST) (2017 – Exp. 2021)
   * B.Sc. in **Computer Science** + **Data Science and Technology** (double major)
   * **Full University Scholarship** (US$98,000 approx.)
@@ -30,7 +30,7 @@ The following was updated on March 29, 2021.
     * Peking University ("北京大学", Beijing, Spring 2019)
     * National Taiwan University ("國立台灣大學", Taipei, Fall 2020)
 
-## <a name="Experience">Experience</a>
+## Experience
 * Summer Intern @ [**Academia Sinica**](https://www.iis.sinica.edu.tw/zh/index.html) (Taipei, Summer 2019)
   * Supervisor: [Professor Keh-Yih Su](https://homepage.iis.sinica.edu.tw/pages/kysu/vita_zh.html)
   * With the [**Natural Language Understanding Laboratory**](http://nlul.iis.sinica.edu.tw/), I did a research project titled “Math Word Problem Generation,” attended NLP lectures and seminars, and gave a paper presentation.
@@ -47,12 +47,12 @@ The following was updated on March 29, 2021.
   * Set up the SMTP server for automatic interaction email sending.
 
 
-## <a name="Skills">Skills</a>
+## Skills
 * Programming Languages: C/C++, Python, Java, SQL, C#, R, NoSQL, Dart, VB
 * Libraries & Frameworks: PyTorch, Keras, Tensorflow, Git, LaTeX, Android, .Net, Genesys, Flutter
 * Languages: Fluent in Mandarin and English; Beginner in Cantonese.
 
-## <a name="Honors">Honors</a>
+## Honors
 * Tecnical
   * Google Hash Code Online Qualifications: 102<sup>nd</sup> Place (top 1.1% worldwide) 2021
   * **Google Girl Hackathon: 2<sup>nd</sup> Place** (out of around 200 teams) 2020
@@ -67,7 +67,7 @@ The following was updated on March 29, 2021.
   * Talent Development Scholarship (2018)
     * From Hong Kong Government; awarded to talented students. (US\$1,300 approx.)
  
-## <a name="Coursework">Coursework</a>
+## Coursework
 * Data Science: 
   * **Advanced Artificial Intelligence** (graduate-level)
   * **Advanced Deep Learning Architectures** (graduate-level)
@@ -90,7 +90,7 @@ The following was updated on March 29, 2021.
   * Stochastic Modeling
   * Probability; Statistics; Linear Algebra; Discrete Mathematics; Multivariable Calculus; Calculus
 
-## <a name="Extracurricular-Activity">Extracurricular Activity</a>
+## Extracurricular Activity
 * Tech
   * Core Member of [Google Developer Student Club, HKUST](https://www.facebook.com/DSCHKUST/) (Hong Kong, 2019 – Present)
   * Participant of Google Machine Learning Winter Camp (Shanghai, 2020)
