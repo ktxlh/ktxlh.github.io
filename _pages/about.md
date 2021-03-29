@@ -9,7 +9,3 @@ redirect_from:
 ---
 
 This is my personal website under construction.
-
-Some title
-======
-Some content in markdown.

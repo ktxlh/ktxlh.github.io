@@ -1,5 +1,30 @@
 # main links links
 main:
+
+  - title: "Education"
+    url: /education/
+  
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Honors"
+    url: /honors/
+  
+  - title: "Skills"
+    url: /skills/
+  
+  - title: "Coursework"
+    url: /coursework/
+  
+  - title: "Extracurricular Activity"
+    url: /extracurricular-activity/
+
+  # - title: "CV"
+  #   url: /cv/
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -8,15 +33,9 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
