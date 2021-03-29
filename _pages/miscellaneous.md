@@ -46,7 +46,7 @@ Coursework
   * Hardware/Software Interface
 
 ## Mathematics: 
-  * Math Analysis for Data Analysis (Data Analytic Tools)
+  * Mathematics Analysis for Data Analysis (Data Analytic Tools)
   * Regression Analysis
   * Statistical Inference
   * Matrix Computation
@@ -58,7 +58,7 @@ Coursework
   * Multivariable Calculus
   * Calculus
 
-Skills
+<!-- Skills
 ===========
 ## Programming Languages
 * C/C++, Python, Java, SQL, C#, R, NoSQL, Dart, VB
@@ -68,4 +68,4 @@ Skills
 
 ## Natural Languages
 * Fluent in Mandarin and English
-* Beginner in Cantonese
+* Beginner in Cantonese -->

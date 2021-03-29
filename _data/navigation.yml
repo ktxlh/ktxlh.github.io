@@ -1,14 +1,14 @@
 # main links links
 main:
 
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Education"
     url: /education/
   
   - title: "Experience"
     url: /experience/
-
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Honors"
     url: /honors/
