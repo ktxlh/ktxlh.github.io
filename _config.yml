@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shang-Ling Hsu (Kate)"
+title                    : "Shang-Ling Hsu"
 title_separator          : "-"
-name                     : &name "Shang-Ling Hsu (Kate)"
-description              : &description "Senior Undergraduate at The Hong Kong University of Science and Technology"
+name                     : &name "Shang-Ling Hsu"
+description              : &description "BSc CS+DS student at HKUST"
 url                      : https://ktxlh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ktxlh.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shang-Ling Hsu (Kate)"
+  name             : "Shang-Ling Hsu"
   avatar           : "profile.png"
-  bio              : "Senior Undergraduate at The Hong Kong University of Science and Technology, focusing on ML/NLP"
-  location         : "Taipei, Taiwan (ROC)"
+  bio              : "BSc CS+DS student at HKUST"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/kate-shang-ling-hsu/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
