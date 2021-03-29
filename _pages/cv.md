@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* 1-page [resume](https://ktxlh.github.io/files/Resume_Shang_Ling_Hsu.pdf).
-
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}

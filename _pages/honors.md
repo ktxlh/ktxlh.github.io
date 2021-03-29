@@ -7,11 +7,16 @@ redirect_from:
 ---
 
 ## Tecnical
-* Google Hash Code Online Qualifications: 102<sup>nd</sup> Place (top 1.1% worldwide) 2021
-* **Google Girl Hackathon: 2<sup>nd</sup> Place** (out of around 200 teams) 2020
-* **Google Women Techmakers Scholarship** (out of 25k+ APAC applicants) 2019
-* Google Women Techmakers Coding Challenge: 1st Place (out of 50+ APAC finalists) 2019
-* Young Heros Award from Microsoft Taiwan ("微軟少年英雄獎", top 2 out of 20,000+ projects) 2016
+* Google Hash Code Online Qualifications: 102<sup>nd</sup> Place (2021)
+    * Out of 9,004 teams; top 1.1% worldwide.
+* **Google Girl Hackathon: 2<sup>nd</sup> Place** (2020)
+    * Out of around 200 teams
+* **Google Women Techmakers Scholarship** (2019)
+    * Out of 25k+ APAC applicants
+* Google Women Techmakers Coding Challenge: 1st Place (2019)
+    * Out of 50+ APAC finalists
+* Young Heros Award from Microsoft Taiwan (2016)
+    * Top 2 out of 20,000+ projects (original text of the award name: "微軟少年英雄獎")
 
 ## Non-technical
 * Dean's List, HKUST (2017, 2018, 2020)

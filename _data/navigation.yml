@@ -13,14 +13,8 @@ main:
   - title: "Honors"
     url: /honors/
   
-  - title: "Skills"
-    url: /skills/
-  
-  - title: "Coursework"
-    url: /coursework/
-  
-  - title: "Extracurricular Activity"
-    url: /extracurricular-activity/
+  - title: "Misc."
+    url: /miscellaneous/
 
   # - title: "CV"
   #   url: /cv/

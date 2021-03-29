@@ -8,12 +8,11 @@ redirect_from:
 
 * Summer Intern @ [**Academia Sinica**](https://www.iis.sinica.edu.tw/zh/index.html) (Taipei, Summer 2019)
   * Supervisor: [Professor Keh-Yih Su](https://homepage.iis.sinica.edu.tw/pages/kysu/vita_zh.html)
-  * With the [**Natural Language Understanding Laboratory**](http://nlul.iis.sinica.edu.tw/), I did a research project titled “Math Word Problem Generation,” attended NLP lectures and seminars, and gave a paper presentation.
-  * Proposed 2math word problem generationmodels based on Transformer and recurrent HMM.
+  * With the [**Natural Language Understanding Laboratory**](http://nlul.iis.sinica.edu.tw/), I did a research project titled “Math Word Problem Generation,” attended NLP lectures and seminars, and gave a paper presentation in text filling with RL-based GAN.
+  * Proposed 2 math word problem generationmodels based on Transformer and recurrent HMM.
   * Researched on text generation with neural templates and language models.
 
 * Student Intern @ [**PCCW Teleservices**](https://www.linkedin.com/company/pccw-teleservices/) (Hong Kong, Summer 2018)
-  * Supervisor: [Jerry Wong](https://www.linkedin.com/in/jerry-wong-16455b136/)
   * Programmed the backend of another database management web application in C# under .Net Framework.
   * Solved the failure problem of a video conference software by substituting an erroneous API
   
