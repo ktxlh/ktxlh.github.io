@@ -25,6 +25,7 @@ Extracurricular Activity
   * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
 
+---
 
 
 Coursework
