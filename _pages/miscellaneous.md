@@ -29,7 +29,7 @@ Extracurricular Activity
 
 Coursework
 ===========
-## Data Science: 
+## Data Science
 * **Advanced Artificial Intelligence** (graduate-level)
 * **Advanced Deep Learning Architectures** (graduate-level)
 * Machine Learning for Natural Language Processing
@@ -38,7 +38,7 @@ Coursework
 * Big Data Mining
 * Data Management
 
-## Computer Science: 
+## Computer Science
   * **Social Computing** (graduate-level)
   * Honors Design and Analysis of Algorithms
   * Honors Object-Oriented Programming and Data Structures
@@ -48,7 +48,7 @@ Coursework
   * Operating Systems
   * Hardware/Software Interface
 
-## Mathematics: 
+## Mathematics
   * Mathematics Analysis for Data Analysis (Data Analytic Tools)
   * Regression Analysis
   * Statistical Inference
