@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shang-Ling (Kate) Hsu"
+title                    : "Shang-Ling Hsu (Kate)"
 title_separator          : "-"
-name                     : &name "Shang-Ling (Kate) Hsu"
+name                     : &name "Shang-Ling Hsu (Kate)"
 description              : &description "Senior Undergraduate at The Hong Kong University of Science and Technology"
 url                      : https://ktxlh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
