@@ -13,5 +13,5 @@ redirect_from:
 
 ## Exchange and visiting programs
 * University of Washington (Seattle, Fall 2019)
-* Peking University ("北京大学", Beijing, Spring 2019)
-* National Taiwan University ("國立台灣大學", Taipei, Fall 2020)
+* Peking University (Beijing, Spring 2019)
+* National Taiwan University (Taipei, Fall 2020)
