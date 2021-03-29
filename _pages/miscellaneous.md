@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
 ---
 
-# Extracurricular Activity
+Extracurricular Activity
+===========
 ## Tech
 * Core Member of Google Developer Student Club, HKUST (Hong Kong, 2019 – Present)
 * Participant of Google Machine Learning Winter Camp (Shanghai, 2020)
@@ -23,7 +24,8 @@ redirect_from:
   * Lead vocalist of "無", an a cappella group (Taipei, 2021 – Present)
   * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
-# Coursework
+Coursework
+===========
 ## Data Science: 
 * **Advanced Artificial Intelligence** (graduate-level)
 * **Advanced Deep Learning Architectures** (graduate-level)
@@ -56,7 +58,8 @@ redirect_from:
   * Multivariable Calculus
   * Calculus
 
-# Skills
+Skills
+===========
 ## Programming Languages
 * C/C++, Python, Java, SQL, C#, R, NoSQL, Dart, VB
 
