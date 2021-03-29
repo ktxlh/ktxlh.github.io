@@ -11,7 +11,7 @@ redirect_from:
   * Did a research project titled “Math Word Problem Generation.”
   * Proposed 2 math word problem generationmodels based on Transformer and recurrent HMM.
   * Gave a paper presentation in text filling with RL-based GAN.
-  * Researched on text generation with neural templates and language models with [**Natural Language Understanding Laboratory**](http://nlul.iis.sinica.edu.tw/).
+  * Researched on text generation with neural templates and language models with [**NLU Lab**](http://nlul.iis.sinica.edu.tw/).
 
 * Student Intern @ [**PCCW Teleservices**](https://www.linkedin.com/company/pccw-teleservices/) (Hong Kong, Summer 2018)
   * Programmed the backend of another database management web application in C# under .Net Framework.
