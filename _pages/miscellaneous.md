@@ -24,6 +24,9 @@ Extracurricular Activity
   * Lead vocalist of "無", an a cappella group (Taipei, 2021 – Present)
   * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
+---
+
+
 Coursework
 ===========
 ## Data Science: 
