@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "" # shsuaa@connect.ust.hk
+  email            : shsuaa@connect.ust.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -265,13 +265,16 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji
 
 
 # Archives
@@ -309,3 +312,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Projects
+# from https://github.com/github/personal-website/blob/746e8c2bb12135a61644cc808c238ddff9501e7b/_config.yml
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
