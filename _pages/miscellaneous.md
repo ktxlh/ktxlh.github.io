@@ -62,20 +62,6 @@ Coursework
   * Multivariable Calculus
   * Calculus
 
-
-Reversed Chronicle
-=======
-* BSc, Hong Kong University of Science & Technology (2017–🇭🇰🇹🇼)
-* Visiting student, National Taiwan University (2020🇹🇼)
-* Exchange student, University of Washington (2019🇺🇸)
-* Google Women Techmakers Scholars retreat (2019🇦🇺)
-* NLU Lab, Academia Sinica (2019🇹🇼)
-* Exchange studnet, Peking University (2019🇨🇳)
-* Student Intern, PCCW Teleservices (2018🇭🇰)
-* Software Engineer, GiftVIVA Limited (2017🇭🇰)
-* London International Youth Science Forum (2016🇬🇧)
-* NLP Lab, National Taiwan University (2016🇹🇼)
-
 <!-- Skills
 ===========
 ## Programming Languages
