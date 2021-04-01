@@ -11,18 +11,19 @@ Extracurricular Activity
 ## Tech
 * Core Member of Google Developer Student Club, HKUST (Hong Kong, 2019 – Present)
 * Participant of Google Machine Learning Winter Camp (Shanghai, 2020)
-  * Around 100 undergraduates and graduates selected from Greater China
+  (Around 100 undergraduates and graduates selected from Greater China)
 
 ## Women in Tech & Public Speaking
 * **Head Student Ambassador, HKUST** (Hong Kong, 2018 – Present)
+  (Conducted more than 10 talks sharing my life as a female STEM student, including 7 in girls high schools.)
 * Facilitator, #IamRemarkable (Taipei, 2020 – Present)
 * Guest Speaker, Introduction to English Presentations class, National Taiwan University (Taipei, 2020)
 * Organizer & Speaker, Women Techmakers Workshop (Taipei, Taichung and Tainan, 2020)
 * **President, Women in Science and Engineering Club, HKUST** (Hong Kong, 2018 – 2019)
 
 ## Other hobbies
-  * Lead vocalist of "無", an a cappella group (Taipei, 2021 – Present)
-  * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
+* Lead vocalist of "無", an a cappella group (Taipei, 2021 – Present)
+* School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
 
 ---
@@ -40,27 +41,27 @@ Coursework
 * Data Management
 
 ## Computer Science
-  * **Social Computing** (graduate-level)
-  * Honors Design and Analysis of Algorithms
-  * Honors Object-Oriented Programming and Data Structures
-  * High Performance Computing
-  * Software Engineering
-  * Software Entrepreneurship
-  * Operating Systems
-  * Hardware/Software Interface
+* **Social Computing** (graduate-level)
+* Honors Design and Analysis of Algorithms
+* Honors Object-Oriented Programming and Data Structures
+* High Performance Computing
+* Software Engineering
+* Software Entrepreneurship
+* Operating Systems
+* Hardware/Software Interface
 
 ## Mathematics
-  * Mathematics Analysis for Data Analysis (Data Analytic Tools)
-  * Regression Analysis
-  * Statistical Inference
-  * Matrix Computation
-  * Stochastic Modeling
-  * Probability
-  * Statistics
-  * Linear Algebra
-  * Discrete Mathematics
-  * Multivariable Calculus
-  * Calculus
+* Mathematics Analysis for Data Analysis (Data Analytic Tools)
+* Regression Analysis
+* Statistical Inference
+* Matrix Computation
+* Stochastic Modeling
+* Probability
+* Statistics
+* Linear Algebra
+* Discrete Mathematics
+* Multivariable Calculus
+* Calculus
 
 <!-- Skills
 ===========
