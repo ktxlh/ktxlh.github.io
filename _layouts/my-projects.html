@@ -12,6 +12,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% include base_path %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
   <div>
@@ -19,7 +21,11 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <h1 class="page__title">{{ page.title }}</h1>
       {% endunless %}
-      <p>GitHub repositories that I've built.</p>
+      <p>Featured projects.</p>
+      {% for post in site.portfolio %}
+        {% include archive-single.html %}
+      {% endfor %}
+      <p>Recent repositories I've built (pushed from GitHub).</p>
     </div>
     <div class="my-6">
       {{ content }}
