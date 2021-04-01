@@ -323,7 +323,6 @@ projects:
   limit: 6
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
-      - cs231n
