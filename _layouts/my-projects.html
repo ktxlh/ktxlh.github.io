@@ -22,9 +22,11 @@ layout: default
         <h1 class="page__title">{{ page.title }}</h1>
       {% endunless %}
       <p>Featured projects.</p>
-      <!-- {% for post in site.portfolio %}
-        {% include archive-single.html %}
-      {% endfor %} -->
+      <div>
+        {% for post in site.portfolio %}
+          {% include archive-single.html %}
+        {% endfor %}
+      </div>
       <p>Recent repositories I've built (pushed from GitHub).</p>
       <div class="my-6">
         {{ content }}
