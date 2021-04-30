@@ -15,14 +15,13 @@ Extracurricular Activity
 
 ## Women in Tech & Public Speaking
 * **Head Student Ambassador, HKUST** (Hong Kong, 2018 – Present)
-  (Conducted more than 10 talks sharing my life as a female STEM student, including 7 in girls high schools.)
 * Facilitator, #IamRemarkable (Taipei, 2020 – Present)
 * Guest Speaker, Introduction to English Presentations class, National Taiwan University (Taipei, 2020)
 * Organizer & Speaker, Women Techmakers Workshop (Taipei, Taichung and Tainan, 2020)
 * **President, Women in Science and Engineering Club, HKUST** (Hong Kong, 2018 – 2019)
 
 ## Other hobbies
-* Lead vocalist of "無", an a cappella group (Taipei, 2021 – Present)
+* Lead vocalist of "FantaSix", a group under the umbrella of NTU A cappella Club (Taipei, 2021 – Present)
 * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
 
