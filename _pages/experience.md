@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
 ---
 
-## Summer Intern @ [**Academia Sinica**](https://www.iis.sinica.edu.tw/zh/index.html) 
+## Summer Intern @ [**Academia Sinica**](https://www.iis.sinica.edu.tw/en/index.html) 
 Taipei, Summer 2019
-* Supervisor: [Professor Keh-Yih Su](https://homepage.iis.sinica.edu.tw/pages/kysu/vita_zh.html)
+* Supervisor: [Professor Keh-Yih Su](https://homepage.iis.sinica.edu.tw/pages/kysu/index_en.html)
 * Did a research project titled “Math Word Problem Generation.”
 * Proposed 2 math word problem generationmodels based on Transformer and recurrent HMM.
 * Gave a paper presentation in text filling with RL-based GAN.
