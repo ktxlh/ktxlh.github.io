@@ -10,7 +10,7 @@ redirect_from:
 ### Georgia Institute of Technology
 * M.S. in Computer Science (2021 – Exp. 2023)
 
-### Hong Kong University of Science and Technology (HKUST)
+### Hong Kong University of Science and Technology
 * B.S. in Computer Science & Data Science and Technology (double major) (2017 – 2021)
 * Full University Scholarship (US$98,000 approx.)
 
