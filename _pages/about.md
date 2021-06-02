@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming M.S. in Computer Science student at [Georgia Institute of Technology](https://www.gatech.edu/). Recently, I received B.S. in _Computer Science_ and _Data Science and Technology_ (double major) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) with 4-Year Full Admission Scholarship. My research interests include graph representation learning and natural language processing.
+I am an incoming M.S. in Computer Science student at [Georgia Institute of Technology](https://www.gatech.edu/). Recently, I received B.S. in Computer Science and Data Science (double major) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) with 4-Year Full Admission Scholarship. My research interests include graph representation learning and natural language processing.
 
 My interest in NLP began when I did a project regarding text classification with statistical learning, supervised by [Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/groupmember.php) from [National Taiwan University](https://www.ntu.edu.tw/english/). Afterwards, I followed my interest to research-intern in [Academia Sinica](iis.sinica.edu.tw/zh/index.html) under [Keh-Yih Su](https://homepage.iis.sinica.edu.tw/pages/kysu/)'s supervision, focusing on text generation with Transformer-based models. Currently, I am working on two more projects in graph neural networks and session recommendation with [Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 

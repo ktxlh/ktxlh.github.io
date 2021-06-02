@@ -7,12 +7,14 @@ redirect_from:
 ---
 
 ## Degree program
-**Georgia Institute of Technology** (2021 – Exp. 2023)
+### Georgia Institute of Technology
 * M.S. in **Computer Science**
+* (2021 – Exp. 2023)
 
-**Hong Kong University of Science and Technology** (HKUST) (2017 – 2021)
-* B.S. in **Computer Science** + **Data Science and Technology** (double major)
+### Hong Kong University of Science and Technology (HKUST)
+* B.S. in **Computer Science** & **Data Science and Technology** (double major)
 * **Full University Scholarship** (US$98,000 approx.)
+* (2017 – 2021)
 
 ## Exchange and visiting programs
 * University of Washington (Seattle, Fall 2019)
