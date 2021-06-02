@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-## Degree program
+## Degree programs
 ### Georgia Institute of Technology
 * M.S. in Computer Science (2021 – Exp. 2023)
 
