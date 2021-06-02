@@ -320,14 +320,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 12
   exclude:
     archived: false
     forks: false
     projects:
     - ktxlh.github.io
     - cs231n
-    - triplan.ai
-    - ai-labeling-backend
     - slides-drafter
+    - sw-gp4
     # - repo-name
