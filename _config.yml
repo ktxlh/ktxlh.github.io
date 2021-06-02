@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shang-Ling Hsu (Kate)"
   avatar           : "profile.png"
-  bio              : "BSc CS+DS student at HKUST"
-  location         : "Taipei, Taiwan"
+  bio              : "MS CS student at Georgia Tech"
+  location         : #"Taipei / Atlanta"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
