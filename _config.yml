@@ -323,10 +323,12 @@ projects:
   limit: 12
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
+    - HMGNM
     - ktxlh.github.io
     - cs231n
     - slides-drafter
+    - sa-stargan
     - sw-gp4
     # - repo-name
