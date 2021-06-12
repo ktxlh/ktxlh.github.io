@@ -323,7 +323,7 @@ projects:
   limit: 12
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     - ktxlh.github.io
     - cs231n
