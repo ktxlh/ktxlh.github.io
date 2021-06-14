@@ -19,7 +19,7 @@ redirect_from:
   Top 2 out of 20,000+ projects (original text of the award name: "微軟少年英雄獎")
 
 ## Non-technical
-* Dean's List, HKUST (2017, 2018, 2020)
+* Dean's List, HKUST (2017, 2018, 2020, 2021)
   Awarded to students who achieve a Term GPA > 3.7, which is arouond top 6% university-wide.
 * Lo Bo Wing Memorial Exchange Scholarship (2019)
   Awarded to 1 top exchange student annually, university-wide. (US$3,200 approx.)
