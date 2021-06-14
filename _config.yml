@@ -325,10 +325,13 @@ projects:
     archived: false
     forks: false
     projects:
-    - HMGNM
     - ktxlh.github.io
     - cs231n
     - slides-drafter
-    - sa-stargan
+    - ai-labeling-backend
+    - Manhattan-BiGRU
+    - ID3-topic-classifier
+    - seat-planner
+    - pos-tagger
     - sw-gp4
     # - repo-name
