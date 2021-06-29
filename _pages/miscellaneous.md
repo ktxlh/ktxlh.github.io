@@ -9,7 +9,8 @@ redirect_from:
 Extracurricular Activity
 ===========
 ## Tech
-* Core Member of Google Developer Student Club, HKUST (Hong Kong, 2019 – Present)
+* Participant in AWS Machine Learning Scholarship Program (2021 – Present)
+* Core Member of Google Developer Student Club, HKUST (Hong Kong, 2019 – 2021)
 * Participant of Google Machine Learning Winter Camp (Shanghai, 2020)
   (Around 100 undergraduates and graduates selected from Greater China)
 
