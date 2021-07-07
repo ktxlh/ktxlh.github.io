@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-## Tecnical
+## Tech
 * Google Hash Code Online Qualifications: 102<sup>nd</sup> Place (2021):
   Out of 9,004 teams; top 1.1% worldwide.
 * **Google Girl Hackathon: 2<sup>nd</sup> Place** (2020):
@@ -18,7 +18,7 @@ redirect_from:
 * Young Heros Award from Microsoft Taiwan (2016):
   Top 2 out of 20,000+ projects (original text of the award name: "微軟少年英雄獎")
 
-## Non-technical
+## Non-tech
 * Talent Development Scholarship (2018 and 2021):
   Awarded to talented students. US\$1,300 approx. each. From Hong Kong SAR Government.
 * Full University Scholarship (2017 – 2021):
