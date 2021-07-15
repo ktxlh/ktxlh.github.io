@@ -14,4 +14,4 @@ My interest in NLP began when I did a project regarding text classification with
 
 Here is my [1-page resume](https://drive.google.com/file/d/1q0RYPOwHSBTWhzqLLaRG4jVPe7NQjGTJ/view?usp=sharing).
 
-When I am not writing code, I sing a cappella, promote Women in Tech, and conduct study groups for[Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) and [Cracking the Coding Interviews](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). (Feel free to email me if interested!)
+When I am not writing code, I sing a cappella, promote Women in Tech, and conduct study groups for [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) and [Cracking the Coding Interviews](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). (Feel free to email me if interested!)
