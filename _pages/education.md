@@ -11,7 +11,7 @@ redirect_from:
 * M.S. in Computer Science (2021 – Exp. 2023)
 
 ### Hong Kong University of Science and Technology
-* B.S. in Computer Science & Data Science and Technology (double major) (2017 – 2021)
+* B.S. in Computer Science, and in Data Science and Technology (First-Class Honors) (2017 – 2021)
 * Full University Scholarship (US$98,000 approx.)
 
 ## Exchange and visiting programs
