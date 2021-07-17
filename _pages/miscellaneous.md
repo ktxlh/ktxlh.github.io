@@ -12,19 +12,19 @@ Extracurricular Activity
 * Participant of Google Machine Learning Winter Camp (Shanghai, 2020)
   (Around 100 undergraduates and graduates selected from Greater China)
 * Participant of AWS Machine Learning Scholarship Program (online, 2021 – Present)
-* Participant of ASPIRE Undergraduate Research Academy, KAIST (Daejeon, 2021 – Present)
-  (In total 9 students selected from KAIST, HKUST, Tokyo Tech, Tsinghua U, and NTU)
-* Organizer of _Reinforment Learning_ and _Cracking the Coding Interviews_ study groups (Taipei, 2021 – Present)
+* Organizers of study groups for [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) and [Cracking the Coding Interviews](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (Taipei, 2021 – Present)
 * Core Member of Google Developer Student Club, HKUST (Hong Kong, 2019 – 2021)
+* Participant of ASPIRE Undergraduate Research Academy, KAIST (Daejeon, 2021)
+  (In total 9 students selected from KAIST, HKUST, Tokyo Tech, Tsinghua U, and NTU)
 
 ## Women in Tech & Public Speaking
-* **Head Student Ambassador, HKUST** (Hong Kong, 2018 – Present)
+* **Head Student Ambassador, HKUST** (Hong Kong, 2018 – 2021)
 * Facilitator, #IamRemarkable [[link](https://iamremarkable.withgoogle.com/)] (Taipei, 2020 – Present)
 * Guest Speaker, Introduction to English Presentations class, National Taiwan University (Taipei, 2020)
 * Organizer & Speaker, Women Techmakers Workshop (Taipei, Taichung and Tainan, 2020)
 * **President, Women in Science and Engineering Club, HKUST** (Hong Kong, 2018 – 2019)
 
-## Other hobbies
+## Others
 * Lead vocalist of "FantaSix", a group under the umbrella of NTU A cappella Club (Taipei, 2021 – Present)
 * School Team Member of Aerobic Gymnastics Team, Peking University (Beijing, 2019)
 
