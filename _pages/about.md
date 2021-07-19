@@ -14,4 +14,4 @@ My interest in NLP began when I did a project regarding text classification with
 
 Here is my [1-page resume](https://drive.google.com/file/d/1q0RYPOwHSBTWhzqLLaRG4jVPe7NQjGTJ/view?usp=sharing).
 
-When I am not writing code, I sing a cappella, arrange [pieces](https://drive.google.com/file/d/1yIN5HY2Qv6bt2vcnWdR5IhrSkxF10Iqk/view?usp=sharing), and promote Women in Tech.
+When I am not writing code, I sing a cappella, arrange song covers, and promote Women in Tech.
