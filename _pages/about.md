@@ -15,7 +15,7 @@ Prior to that, I received my Bachelor of Science degrees in Computer Science, an
 
 In addition to my academic pursuits, I gained valuable industry experience through internships at <a href="https://developer.nvidia.com/deep-learning" target="_blank">NVIDIA Deep Learning</a> and <a href="https://azure.microsoft.com/en-us/solutions/ai" target="_blank">Microsoft Azure AI</a> in 2022. Besides, I also participated in semester- and quarter-long study abroad programs at the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, and <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a> in 2019 and 2020.
 
-My journey into the world of coding began in 2014, and by 2016, I had completed my first research project on text classification at National Taiwan University, advised by Professor <a href="https://nlg.csie.ntu.edu.tw/advisor.php" target="_blank">Hsin-Hsi Chen</a>.
+My journey into the world of coding began in 2014, and by 2016, I had completed my first research project on text classification at <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a>, advised by Professor <a href="https://nlg.csie.ntu.edu.tw/advisor.php" target="_blank">Hsin-Hsi Chen</a>.
 
 When I'm not immersed in research (and perhaps course-credit hunting at different universities), I love to bake and spend time with my dog.
 
