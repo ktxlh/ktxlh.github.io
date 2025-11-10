@@ -21,7 +21,7 @@ repository               : "ktxlh/ktxlh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "blonde-profile.png"
   name             : "Shang-Ling (Kate) Hsu"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD Student"
