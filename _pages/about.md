@@ -17,6 +17,6 @@ In addition to my academic pursuits, I gained valuable industry experience throu
 
 My journey into the world of coding began in 2014, and by 2016, I had completed my first research project on text classification at <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a>, advised by Professor <a href="https://nlg.csie.ntu.edu.tw/advisor.php" target="_blank">Hsin-Hsi Chen</a>.
 
-When I'm not immersed in research, I love to bake and spend time with my dog.
+When I'm not immersed in research, I love to bake and spend time with <a href="/images/nacho.JPG" target="_blank">my dog</a>.
 
 You can find my detailed CV <a href="https://drive.google.com/file/d/1k8uxxQUfVkgt5J3U8atQpoPlXlFpBSFS/view?usp=drive_link" target="_blank">here</a>.
