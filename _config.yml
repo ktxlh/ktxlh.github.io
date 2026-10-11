@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shang-Ling (Kate) Hsu"
 title_separator          : "-"
 name                     : &name "Shang-Ling (Kate) Hsu"
-description              : &description "Computer Science PhD Student at USC"
+description              : &description "Computer Science PhD Candidate at USC"
 url                      : https://ktxlh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ktxlh/ktxlh.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Shang-Ling (Kate) Hsu"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science PhD Student"
+  bio              : "Computer Science PhD Candidate"
   location         : #"Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL
-  email            : "hsushang@usc.edu" 
+  email            : "shanglinghsu@gmail.com" 
 
   # Academic websites
   arxiv            : #"http://arxiv.org/a/hsu_s_2"
